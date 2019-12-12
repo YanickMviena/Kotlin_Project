@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> afficer toast </string>
+    <string name="btn_show_toast"> afficher toast </string>
+
+
+    <string name="btn_move_to_next_activity"> Passer a la prochaine activite  </string>
+    <string name="btn_share_to_apps"> Partage vers dautres applications  </string>
+    <string name="btn_hobbies"> Afficher mes passe-temps  </string>
+
+    <string name="et_enter_msg">Entez a Message </string>
+
+    <string name="btn_was_clicked"> Le bouton est clique </string>
+
+
+
+</resources>
+
+
+
+
